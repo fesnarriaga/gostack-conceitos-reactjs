@@ -1,0 +1,6 @@
+[user]
+	name = Felipe Esnarriaga
+	email = f_esnarriaga@yahoo.com.br
+
+[core]
+	sshCommand = ssh -i ~/.ssh/id_rsa_yahoo -F /dev/null
